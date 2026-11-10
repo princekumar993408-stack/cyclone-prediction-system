@@ -1,0 +1,88 @@
+[
+  {
+    "cyclone_id": "AMPHAN-2020",
+    "name": "Super Cyclone Amphan",
+    "year": 2020,
+    "basin": "Bay of Bengal",
+    "peak_category": "Super Cyclonic Storm",
+    "peak_wind_knots": 140,
+    "peak_wind_kmh": 260,
+    "min_pressure_hpa": 907,
+    "life_span": "16 May 2020 — 21 May 2020",
+    "landfall_location": "Bakkhali, West Bengal & Hatiya Islands, Bangladesh",
+    "track": [
+      {"step": 1, "time": "2020-05-16T00:00:00Z", "lat": 10.4, "lon": 86.4, "wind_knots": 25, "pressure_hpa": 1000, "category": "Depression", "dvorak": "T1.5"},
+      {"step": 2, "time": "2020-05-16T12:00:00Z", "lat": 10.9, "lon": 86.3, "wind_knots": 35, "pressure_hpa": 996, "category": "Cyclonic Storm", "dvorak": "T2.5"},
+      {"step": 3, "time": "2020-05-17T06:00:00Z", "lat": 11.5, "lon": 86.0, "wind_knots": 55, "pressure_hpa": 986, "category": "Severe Cyclonic Storm", "dvorak": "T3.5"},
+      {"step": 4, "time": "2020-05-17T18:00:00Z", "lat": 12.6, "lon": 86.4, "wind_knots": 75, "pressure_hpa": 968, "category": "Very Severe Cyclonic Storm", "dvorak": "T4.5"},
+      {"step": 5, "time": "2020-05-18T06:00:00Z", "lat": 13.4, "lon": 86.2, "wind_knots": 115, "pressure_hpa": 930, "category": "Extremely Severe Cyclonic Storm", "dvorak": "T6.0"},
+      {"step": 6, "time": "2020-05-18T18:00:00Z", "lat": 14.9, "lon": 86.5, "wind_knots": 140, "pressure_hpa": 907, "category": "Super Cyclonic Storm", "dvorak": "T7.0"},
+      {"step": 7, "time": "2020-05-19T12:00:00Z", "lat": 17.4, "lon": 87.0, "wind_knots": 125, "pressure_hpa": 922, "category": "Super Cyclonic Storm", "dvorak": "T6.5"},
+      {"step": 8, "time": "2020-05-20T06:00:00Z", "lat": 20.5, "lon": 87.9, "wind_knots": 100, "pressure_hpa": 948, "category": "Extremely Severe Cyclonic Storm", "dvorak": "T5.5"},
+      {"step": 9, "time": "2020-05-20T12:00:00Z", "lat": 21.7, "lon": 88.3, "wind_knots": 85, "pressure_hpa": 960, "category": "Very Severe Cyclonic Storm", "dvorak": "T4.5"}
+    ]
+  },
+  {
+    "cyclone_id": "BIPARJOY-2023",
+    "name": "Extremely Severe Cyclone Biparjoy",
+    "year": 2023,
+    "basin": "Arabian Sea",
+    "peak_category": "Extremely Severe Cyclonic Storm",
+    "peak_wind_knots": 90,
+    "peak_wind_kmh": 165,
+    "min_pressure_hpa": 958,
+    "life_span": "06 June 2023 — 19 June 2023",
+    "landfall_location": "Jakhau Port, Kutch, Gujarat",
+    "track": [
+      {"step": 1, "time": "2023-06-06T06:00:00Z", "lat": 11.5, "lon": 66.0, "wind_knots": 25, "pressure_hpa": 1002, "category": "Depression", "dvorak": "T1.5"},
+      {"step": 2, "time": "2023-06-06T18:00:00Z", "lat": 12.1, "lon": 66.0, "wind_knots": 35, "pressure_hpa": 998, "category": "Cyclonic Storm", "dvorak": "T2.5"},
+      {"step": 3, "time": "2023-06-07T12:00:00Z", "lat": 12.8, "lon": 66.2, "wind_knots": 55, "pressure_hpa": 988, "category": "Severe Cyclonic Storm", "dvorak": "T3.5"},
+      {"step": 4, "time": "2023-06-09T00:00:00Z", "lat": 14.8, "lon": 66.4, "wind_knots": 75, "pressure_hpa": 972, "category": "Very Severe Cyclonic Storm", "dvorak": "T4.5"},
+      {"step": 5, "time": "2023-06-11T06:00:00Z", "lat": 18.0, "lon": 67.5, "wind_knots": 90, "pressure_hpa": 958, "category": "Extremely Severe Cyclonic Storm", "dvorak": "T5.0"},
+      {"step": 6, "time": "2023-06-13T06:00:00Z", "lat": 20.7, "lon": 67.2, "wind_knots": 85, "pressure_hpa": 964, "category": "Very Severe Cyclonic Storm", "dvorak": "T4.5"},
+      {"step": 7, "time": "2023-06-15T12:00:00Z", "lat": 23.2, "lon": 68.6, "wind_knots": 65, "pressure_hpa": 978, "category": "Very Severe Cyclonic Storm", "dvorak": "T4.0"},
+      {"step": 8, "time": "2023-06-16T06:00:00Z", "lat": 24.1, "lon": 70.3, "wind_knots": 40, "pressure_hpa": 990, "category": "Cyclonic Storm", "dvorak": "T2.5"}
+    ]
+  },
+  {
+    "cyclone_id": "FANI-2019",
+    "name": "Extremely Severe Cyclone Fani",
+    "year": 2019,
+    "basin": "Bay of Bengal",
+    "peak_category": "Extremely Severe Cyclonic Storm",
+    "peak_wind_knots": 115,
+    "peak_wind_kmh": 215,
+    "min_pressure_hpa": 932,
+    "life_span": "26 April 2019 — 04 May 2019",
+    "landfall_location": "Puri, Odisha",
+    "track": [
+      {"step": 1, "time": "2019-04-26T06:00:00Z", "lat": 2.7, "lon": 88.7, "wind_knots": 25, "pressure_hpa": 1004, "category": "Depression", "dvorak": "T1.5"},
+      {"step": 2, "time": "2019-04-27T12:00:00Z", "lat": 4.5, "lon": 88.0, "wind_knots": 40, "pressure_hpa": 996, "category": "Cyclonic Storm", "dvorak": "T2.5"},
+      {"step": 3, "time": "2019-04-29T12:00:00Z", "lat": 8.5, "lon": 86.9, "wind_knots": 60, "pressure_hpa": 982, "category": "Severe Cyclonic Storm", "dvorak": "T3.5"},
+      {"step": 4, "time": "2019-05-01T00:00:00Z", "lat": 12.8, "lon": 84.4, "wind_knots": 85, "pressure_hpa": 962, "category": "Very Severe Cyclonic Storm", "dvorak": "T4.5"},
+      {"step": 5, "time": "2019-05-02T06:00:00Z", "lat": 15.6, "lon": 84.7, "wind_knots": 115, "pressure_hpa": 932, "category": "Extremely Severe Cyclonic Storm", "dvorak": "T6.0"},
+      {"step": 6, "time": "2019-05-03T03:00:00Z", "lat": 19.8, "lon": 85.8, "wind_knots": 100, "pressure_hpa": 945, "category": "Extremely Severe Cyclonic Storm", "dvorak": "T5.5"},
+      {"step": 7, "time": "2019-05-03T18:00:00Z", "lat": 21.6, "lon": 86.8, "wind_knots": 50, "pressure_hpa": 985, "category": "Severe Cyclonic Storm", "dvorak": "T3.5"}
+    ]
+  },
+  {
+    "cyclone_id": "MOCHA-2023",
+    "name": "Extremely Severe Cyclone Mocha",
+    "year": 2023,
+    "basin": "Bay of Bengal",
+    "peak_category": "Extremely Severe Cyclonic Storm",
+    "peak_wind_knots": 115,
+    "peak_wind_kmh": 215,
+    "min_pressure_hpa": 938,
+    "life_span": "09 May 2023 — 15 May 2023",
+    "landfall_location": "Sittwe, Rakhine State, Myanmar (near Bangladesh border)",
+    "track": [
+      {"step": 1, "time": "2023-05-09T06:00:00Z", "lat": 8.5, "lon": 89.0, "wind_knots": 25, "pressure_hpa": 1004, "category": "Depression", "dvorak": "T1.5"},
+      {"step": 2, "time": "2023-05-11T00:00:00Z", "lat": 11.2, "lon": 88.0, "wind_knots": 40, "pressure_hpa": 998, "category": "Cyclonic Storm", "dvorak": "T2.5"},
+      {"step": 3, "time": "2023-05-12T06:00:00Z", "lat": 13.5, "lon": 88.0, "wind_knots": 60, "pressure_hpa": 984, "category": "Severe Cyclonic Storm", "dvorak": "T3.5"},
+      {"step": 4, "time": "2023-05-13T06:00:00Z", "lat": 16.0, "lon": 89.8, "wind_knots": 90, "pressure_hpa": 960, "category": "Very Severe Cyclonic Storm", "dvorak": "T5.0"},
+      {"step": 5, "time": "2023-05-14T03:00:00Z", "lat": 19.4, "lon": 92.5, "wind_knots": 115, "pressure_hpa": 938, "category": "Extremely Severe Cyclonic Storm", "dvorak": "T6.0"},
+      {"step": 6, "time": "2023-05-14T12:00:00Z", "lat": 20.8, "lon": 93.6, "wind_knots": 70, "pressure_hpa": 975, "category": "Very Severe Cyclonic Storm", "dvorak": "T4.0"}
+    ]
+  }
+]
